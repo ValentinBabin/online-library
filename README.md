@@ -1,24 +1,35 @@
-# vue-todos
+# Online Library
 
-## Project setup
-```
-yarn install
-```
+Small tool to reference these physical books (sorting by name, percentage read). _You can use like a native app_
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+https://online-library.valentinbabin.fr/ 
 
-### Compiles and minifies for production
-```
-yarn build
-```
+## Base README 
+## App to list your books
 
-### Lints and fixes files
+> Based on
+> [https://todo-app.burakgur.vercel.app/](https://todo-app.burakgur.vercel.app/)
+> A simple ToDo application using Vue 3 Composition API.
+
+### Project setup
 ```
-yarn lint
+npm install
 ```
 
-### Customize configuration
+#### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+#### Compiles and minifies for production
+```
+npm run build
+```
+
+#### Lints and fixes files
+```
+npm run lint
+```
+
+#### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
